@@ -17,7 +17,7 @@
 I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS, Python, C but I'm always willing to learn new things! I am 17 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/780345184084033547"> <img src="https://discord.c99.nl/widget/theme-2/780345184084033547.png" alt="contact mee">
+[<a href="https://discord.com/channels/@me/780345184084033547"> <img src="https://discord.c99.nl/widget/theme-2/780345184084033547.png" alt="contact mee">](https://discord.c99.nl/widget/theme-3/780345184084033547.png)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
