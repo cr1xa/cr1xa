@@ -1,6 +1,6 @@
 <h1 align="center"><b>Heyyo!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=435&lines=crixa;full-stack+developer)](https://git.io/typing-svg)
+            [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=435&lines=crixa;full-stack+developer)](https://git.io/typing-svg)
 
 
  <img src = "https://cdn.discordapp.com/emojis/1057946941150986260.gif" width=50px> **About me**
