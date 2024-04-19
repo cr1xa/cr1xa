@@ -1,9 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=800&size=42&pause=1000&center=true&random=false&width=480&height=70&lines=crixa;full-stack+developer&vCenter=true" alt="Typing SVG" /></a></h1>
 
- Hakkımda
-
-
-bio? iletişim<a href="#contact"></a>
+Ben crixa. Discord'da başladığım yazılım serüvenimi her gün geliştirmeye çalışıyorum. Projelerim için repostitorylerime bakabilirsiniz.
+<a href="#contact">İletişim</a>
 <br><br>
 
 [<a href="https://discord.com/channels/@me/780345184084033547"> <img src="https://discord.c99.nl/widget/theme-2/780345184084033547.png" alt="contact mee">](https://discord.c99.nl/widget/theme-3/780345184084033547.png)
