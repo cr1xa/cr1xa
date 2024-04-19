@@ -38,7 +38,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> İstatikler </b>
 <br>
 
 <div align="center">
@@ -52,21 +52,18 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 </div>
 
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> İletişim</b>
 <br>
 <div align='left' id="contact">
 <ul>
 
-<li>
-<a href="https://instagram.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/crixadev" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
-</li>
 <br>
-<li>
-<a href="https://www.linkedin.com/in/corwindev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+
+<a href="https://discord.gg/fXptSKPHYs" target="_blank">
+<img src="https://img.shields.io/badge/discord-%2300acee.svg?color=3455f4&style=for-the-badge&logo=discord&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
-</li>
 </ul>
 </div>
