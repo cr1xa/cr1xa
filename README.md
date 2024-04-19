@@ -13,7 +13,6 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 
 - **Diller**:
     
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -21,7 +20,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 
 - **Veritabanları**:
 
-    ![CroxyDB](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    ![CroxyDB](https://img.shields.io/badge/databricks-%2300f.svg?style=for-the-badge&logo=croxydb&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Programlar ve araçlar**:
