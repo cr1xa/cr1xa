@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=800&size=42&pause=1000&center=true&random=false&width=480&height=70&lines=crixa;full-stack+developer&vCenter=true" alt="Typing SVG" /></a></h1>
 
- <img src = "https://cdn.discordapp.com/emojis/1180227844299821216.webp?size=96&quality=lossless" width=50px> Hakkımda
+ <img src = "https://cdn.discordapp.com/emojis/1180227844299821216.webp?size=50&quality=lossless" width=50px> Hakkımda
 
 
 bio? iletişim<a href="#contact"></a>
