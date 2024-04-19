@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=800&size=42&pause=1000&center=true&random=false&width=480&height=70&lines=crixa;full-stack+developer&vCenter=true" alt="Typing SVG" /></a></h1>
 
-Ben crixa. Discord'da başladığım yazılım serüvenimi her gün geliştirmeye çalışıyorum. Projelerim için repostitorylerime bakabilirsiniz.
-<a href="#contact">İletişim</a>
+Ben crixa. <a href="https://discord.gg/fXptSKPHYs">Discord</a>'da başladığım yazılım serüvenimi her gün geliştirmeye çalışıyorum. Projelerim için repostitorylerime bakabilirsiniz.
 <br><br>
 
 [<a href="https://discord.com/channels/@me/780345184084033547"> <img src="https://discord.c99.nl/widget/theme-2/780345184084033547.png" alt="contact mee">](https://discord.c99.nl/widget/theme-3/780345184084033547.png)
@@ -9,7 +8,7 @@ Ben crixa. Discord'da başladığım yazılım serüvenimi her gün geliştirmey
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
