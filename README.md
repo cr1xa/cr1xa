@@ -35,7 +35,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> İstatikler </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> İstatistikler </b>
 <br>
 
 <div align="center">
