@@ -58,7 +58,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 <ul>
 
 <a href="https://instagram.com/crixadev" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=125688&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 <br>
 
