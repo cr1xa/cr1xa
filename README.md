@@ -6,8 +6,6 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 [<a href="https://discord.com/channels/@me/780345184084033547"> <img src="https://discord.c99.nl/widget/theme-2/780345184084033547.png" alt="contact mee">](https://discord.c99.nl/widget/theme-3/780345184084033547.png)
 
 <br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Yeteneklerim</b>
 <br>
 
@@ -58,7 +56,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 <ul>
 
 <a href="https://instagram.com/crixadev" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=125688&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 <br>
 
