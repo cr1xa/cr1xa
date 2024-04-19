@@ -20,7 +20,7 @@ Ben crixa. Back-end bir yazılımcıyım. Ve bir türk genciyim :) <a href="http
 
 - **Veritabanları**:
 
-    ![CroxyDB](https://img.shields.io/badge/databricks-%2300f.svg?style=for-the-badge&logo=croxydb&logoColor=white)
+    ![CroxyDB](https://img.shields.io/badge/croxydb-%2300f.svg?style=for-the-badge&logo=databricks&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - **Programlar ve araçlar**:
